@@ -24,7 +24,7 @@ This is a list of awesome workflow use cases for [Actionsflow](https://github.co
 - [Getting Started with Actionsflow](https://actionsflow.github.io/docs/getting-started/) - Get started with Actionsflow.
 - [How Actionsflow worked](https://actionsflow.github.io/docs/concepts/) - Learn Actionsflow Core Concepts.
 - [How to Create a Trigger of Actionsflow](https://actionsflow.github.io/docs/creating-triggers/) - Learn how to creating triggers.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/?q=actionsflow) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Workflow Collections
 
